@@ -1,5 +1,7 @@
 # TokenLab LangChain Example
 
+[![CI](https://github.com/hedging8563/tokenlab-langchain-example/actions/workflows/ci.yml/badge.svg)](https://github.com/hedging8563/tokenlab-langchain-example/actions/workflows/ci.yml)
+
 Minimal LangChain Python example using TokenLab as an OpenAI-compatible endpoint.
 
 ## Quickstart
