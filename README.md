@@ -17,6 +17,6 @@ python main.py
 
 ## Links
 
-- TokenLab docs: https://docs.tokenlab.sh
-- LangChain integration docs: https://docs.tokenlab.sh/integrations/langchain
+- TokenLab docs: https://tokenlab.sh/docs
+- LangChain integration docs: https://tokenlab.sh/docs/en/integrations/langchain
 - Model catalog: https://api.tokenlab.sh/v1/models
